@@ -68,3 +68,6 @@ __Controller__: Handles the communication between the Model and View, and manage
 ## UML Diagram
 Below is the UML diagram for the project, illustrating the class structure and relationships:
 ![UML Diagram](ClassDiagram.png)
+
+## Testing
+The project includes unit tests for various user stories, such as creating a new document, saving and loading documents, and transforming text to speech. The tests are located in the tests directory.
