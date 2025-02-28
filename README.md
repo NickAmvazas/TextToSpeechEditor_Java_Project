@@ -67,4 +67,4 @@ __Controller__: Handles the communication between the Model and View, and manage
 
 ## UML Diagram
 Below is the UML diagram for the project, illustrating the class structure and relationships:
-![UML Diagram](uml_diagram.png)
+![UML Diagram](ClassDiagram.png)
